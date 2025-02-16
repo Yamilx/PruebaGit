@@ -5,7 +5,7 @@ Este repositorio es parte de la actividad "Dominando Git", donde practicamos los
 ## **Tabla de Contenidos**
 1. [Descripción del Proyecto](#descripción-del-proyecto)
 2. [Estructura del Repositorio](#estructura-del-repositorio)
-3. [Cómo Contribuir](#cómo-contribuir)
+3. [Cómo Contribuir (Usando GitHub Desktop)](#cómo-contribuir-usando-github-desktop)
 
 ---
 
