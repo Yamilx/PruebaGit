@@ -6,8 +6,6 @@ Este repositorio es parte de la actividad "Dominando Git", donde practicamos los
 1. [Descripción del Proyecto](#descripción-del-proyecto)
 2. [Estructura del Repositorio](#estructura-del-repositorio)
 3. [Cómo Contribuir](#cómo-contribuir)
-4. [Resolución de Conflictos](#resolución-de-conflictos)
-5. [Extras Implementados](#extras-implementados)
 
 ---
 
@@ -23,6 +21,8 @@ El proyecto incluye:
 
 ## **Estructura del Repositorio**
 El repositorio tiene la siguiente estructura:
+-README.md
+-Licencia.
 
 
 ---
@@ -61,18 +61,3 @@ Sigue estos pasos para contribuir al proyecto utilizando **GitHub Desktop**:
    - Envía la solicitud para que otro miembro del equipo revise tus cambios.
 
 ---
-
-## **Resolución de Conflictos**
-
-Si ocurren conflictos durante el merge:
-1. **Usando GitHub Desktop**:
-   - GitHub Desktop te notificará sobre los conflictos.
-   - Haz clic en `Resolve Conflicts` y edita los archivos afectados directamente en tu editor de texto.
-   - Guarda los cambios y vuelve a **GitHub Desktop**.
-   - Marca los conflictos como resueltos y haz clic en `Commit Merge`.
-
-2. **Usando la Línea de Comandos** (opcional):
-   ```bash
-   git add .
-   git commit -m "Resolviendo conflictos"
-   git push origin feature-[tu-nombre]
