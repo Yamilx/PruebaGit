@@ -21,9 +21,17 @@ El proyecto incluye:
 
 ## **Estructura del Repositorio**
 El repositorio tiene la siguiente estructura:
--README.md
--Licencia.
+- README.md
+- Licencia
 
+
+### **Ramas Creadas**
+Durante el desarrollo del proyecto, se crearon las siguientes ramas para organizar el trabajo colaborativo:
+- `feature-yamil`: Rama creada por Yamil para agregar su archivo `yamil.txt`.
+- `feature-paul`: Rama creada por Paul para agregar su archivo `paul.txt`.
+- `feature-luz`: Rama creada por Luz para agregar su archivo `luz.txt`.
+- `feature-nihurcka`: Rama creada por Nihurcka para agregar su archivo `nihurcka.txt`.
+- `feature-lizeth`: Rama creada por Lizeth para agregar su archivo `lizeth.txt`.
 
 ---
 
