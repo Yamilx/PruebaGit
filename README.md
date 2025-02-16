@@ -22,7 +22,7 @@ El proyecto incluye:
 ## **Estructura del Repositorio**
 El repositorio tiene la siguiente estructura:
 - README.md
-- Licencia
+- LICENSE
 
 
 ### **Ramas Creadas**
